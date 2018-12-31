@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Hi there and bye
+            Hi there and bye, feature branch
           </a>
         </header>
       </div>
